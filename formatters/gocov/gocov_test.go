@@ -5,7 +5,7 @@ import (
 
 	"gopkg.in/src-d/go-git.v4/plumbing/object"
 
-	"github.com/codeclimate/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/env"
 	"github.com/stretchr/testify/require"
 )
 
@@ -25,7 +25,7 @@ func Test_Parse(t *testing.T) {
 
 		r.Len(rep.SourceFiles, 4)
 
-		sf := rep.SourceFiles["github.com/codeclimate/test-reporter/formatters/source_file.go"]
+		sf := rep.SourceFiles["github.com/TomRobbins1967/test-reporter/formatters/source_file.go"]
 		r.InDelta(75.8, sf.CoveredPercent, 1)
 		r.Len(sf.Coverage, 115)
 		r.False(sf.Coverage[5].Valid)

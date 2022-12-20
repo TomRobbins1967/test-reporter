@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/TomRobbins1967/test-reporter/formatters"
 	"github.com/pkg/errors"
 )
 

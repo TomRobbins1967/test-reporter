@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/TomRobbins1967/test-reporter/formatters"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

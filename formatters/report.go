@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/env"
-	"github.com/codeclimate/test-reporter/version"
+	"github.com/TomRobbins1967/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/version"
 	"github.com/gobuffalo/envy"
 )
 

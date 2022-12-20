@@ -8,8 +8,8 @@ import (
 	"golang.org/x/tools/cover"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/env"
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/TomRobbins1967/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/formatters"
 	"github.com/gobuffalo/envy"
 	"github.com/pkg/errors"
 )

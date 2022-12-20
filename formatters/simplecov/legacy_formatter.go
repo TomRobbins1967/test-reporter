@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/env"
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/TomRobbins1967/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/formatters"
 	"github.com/pkg/errors"
 )
 

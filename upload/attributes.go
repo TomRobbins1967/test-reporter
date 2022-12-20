@@ -1,6 +1,6 @@
 package upload
 
-import "github.com/codeclimate/test-reporter/formatters"
+import "github.com/TomRobbins1967/test-reporter/formatters"
 
 type Attributes struct {
 	CIBranch          string                 `json:"ci_branch"`

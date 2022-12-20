@@ -9,7 +9,7 @@ import (
 	"gopkg.in/src-d/go-git.v4/plumbing/object"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/env"
 	"github.com/gobuffalo/envy"
 	"github.com/pkg/errors"
 )

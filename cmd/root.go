@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/version"
+	"github.com/TomRobbins1967/test-reporter/version"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

@@ -3,7 +3,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/codeclimate/test-reporter/upload"
+	"github.com/TomRobbins1967/test-reporter/upload"
 	"github.com/gobuffalo/envy"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"

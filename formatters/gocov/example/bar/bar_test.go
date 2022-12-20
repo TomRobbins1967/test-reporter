@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/codeclimate/test-reporter/formatters/gocov/example/bar"
+	"github.com/TomRobbins1967/test-reporter/formatters/gocov/example/bar"
 )
 
 func Test_String(t *testing.T) {

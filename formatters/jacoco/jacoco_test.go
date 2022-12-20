@@ -5,8 +5,8 @@ import (
 
 	"gopkg.in/src-d/go-git.v4/plumbing/object"
 
-	"github.com/codeclimate/test-reporter/env"
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/TomRobbins1967/test-reporter/env"
+	"github.com/TomRobbins1967/test-reporter/formatters"
 	"github.com/gobuffalo/envy"
 	"github.com/stretchr/testify/require"
 )
